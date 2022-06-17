@@ -1,7 +1,3 @@
-# Tugas Besar Visualisasi Data Kelompok 4 Kelas IF-42-GAB06
-# Sumber data: https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases/version/39
-# Dataset yang digunakan adalah 'province.csv' dan 'cases.csv'
-
 import pandas as pd
 from bokeh.io import curdoc
 from bokeh.plotting import figure
